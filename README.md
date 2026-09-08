@@ -4,12 +4,12 @@
 
 Official launcher downloads and setup instructions. A valid license is required to activate the client.
 
-The licensed release is being prepared. The download will appear here after the signed package and first-install checks are complete.
+[Download the latest official launcher](https://github.com/sukkaphat1/CS2pySukk-Downloads/releases/latest/download/CS2py.exe)
 
 ## Getting started
 
 1. Obtain a Monthly license directly from the owner through Discord.
-2. Download **CS2py.exe** from this repository's official release when available.
+2. Download **CS2py.exe** from the official release link above.
 3. Run it from your normal Windows account. Enter your key at the hidden prompt and complete the official Steam sign-in if requested.
 4. Start CS2 and run the launcher to open the client.
 
@@ -39,3 +39,9 @@ If verification or download fails, the launcher keeps the error visible. Send th
 - Updated menu layout and mouse-wheel skin browsing. Gloves remain disabled.
 
 This repository contains distribution information and launcher assets only. Development source and internal testing tools are maintained separately.
+
+## Safety and compatibility
+
+Only download the launcher from this repository. Release assets include a SHA-256 checksum for integrity checks. The software is provided as-is, may conflict with game or anti-cheat rules, and does not claim to bypass detection. Use it only where you have permission and accept the risk to your account.
+
+The original project attribution and MIT license are preserved in [LICENSE](LICENSE).
