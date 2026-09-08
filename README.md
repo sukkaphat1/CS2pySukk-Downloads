@@ -4,6 +4,8 @@
 
 Official launcher downloads and setup instructions. A valid license is required to activate the client.
 
+Current release: launcher **1.2.3**, protected client **1.2.2**. This release fixes saved-license detection after a key is removed or replaced.
+
 [Download the latest official launcher](https://github.com/sukkaphat1/CS2pySukk-Downloads/releases/latest/download/CS2py.exe)
 
 ## Getting started
