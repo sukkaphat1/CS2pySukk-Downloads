@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.pfx
+*.p12
+.env*
+settings.json
+*.exe

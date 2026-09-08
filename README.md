@@ -1,0 +1,41 @@
+<p align="center"><img src="assets/cs2py-sukk-logo.png" alt="CS2py Sukk" width="520"></p>
+
+# CS2py Sukk
+
+Official launcher downloads and setup instructions. A valid license is required to activate the client.
+
+The licensed release is being prepared. The download will appear here after the signed package and first-install checks are complete.
+
+## Getting started
+
+1. Obtain a Monthly license directly from the owner through Discord.
+2. Download **CS2py.exe** from this repository's official release when available.
+3. Run it from your normal Windows account. Enter your key at the hidden prompt and complete the official Steam sign-in if requested.
+4. Start CS2 and run the launcher to open the client.
+
+The launcher verifies your license on every launch. It remembers a successfully activated key using Windows Credential Manager, checks for the latest private release, verifies its signature and files, and installs missing Python dependencies automatically. Git and a GitHub account are not required.
+
+The client installs under `Documents\CS2pySukk`. Settings are carried forward during updates. Close the existing client before updating.
+
+## Renewal and support
+
+Monthly access is purchased one month at a time directly from the owner; there is no automatic billing through this repository. After your key expires, obtain a replacement or renewal from the owner. An expired remembered key allows you to enter a replacement.
+
+To deliberately enter a different key, open PowerShell in the launcher folder and run:
+
+```powershell
+.\CS2py.exe --new-key
+```
+
+Licenses are bound to a Windows device and a verified Steam account. Contact the owner for a device or Steam-link reset. Never post a license key, payment information, or account credentials in a public issue.
+
+If verification or download fails, the launcher keeps the error visible. Send the owner the message, without including your key. A connection failure is not a confirmed billing failure.
+
+## Client features
+
+- Weapon and knife customization, with optional skin sharing.
+- Live match dashboard with private viewing links, player-follow controls, map rotation and zoom.
+- Team cards with inventory icons, health, armor, money and scores; round and planted-bomb timers.
+- Updated menu layout and mouse-wheel skin browsing. Gloves remain disabled.
+
+This repository contains distribution information and launcher assets only. Development source and internal testing tools are maintained separately.
