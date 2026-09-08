@@ -10,10 +10,10 @@ Official launcher downloads and setup instructions. A valid license is required 
 
 1. Obtain a Monthly license directly from the owner through Discord.
 2. Download **CS2py.exe** from the official release link above.
-3. Run it from your normal Windows account. Enter your key in the masked launcher field and complete the official Steam sign-in if requested.
+3. Run it from your normal Windows account. Enter your key in the masked launcher field on the first launch and complete the official Steam sign-in if requested. On later launches, leave the field blank to use the protected key saved in Windows Credential Manager.
 4. Start CS2 and run the launcher to open the client.
 
-The native Windows launcher shows verification and update progress without a command-line bootstrap window. It verifies your license on every launch, remembers a successfully activated key using Windows Credential Manager, checks for the latest private release, verifies its signature and files, and installs missing Python dependencies automatically. The client itself opens a visible terminal for its startup banner and diagnostic messages. Git and a GitHub account are not required.
+The native Windows launcher shows its own version separately from the installed client version, and displays verification and update progress without a command-line bootstrap window. It verifies your license on every launch, remembers a successfully activated key using Windows Credential Manager, checks for the latest private release, verifies its signature and files, and installs missing Python dependencies automatically. The client itself opens a visible terminal for its startup banner and diagnostic messages. Git and a GitHub account are not required.
 
 The client installs under `Documents\CS2pySukk`. Settings are carried forward during updates. Close the existing client before updating.
 
