@@ -10,7 +10,7 @@ Current release: launcher **1.2.5**, protected client **1.2.5**. This release fi
 
 ## Getting started
 
-1. Obtain a Monthly license directly from the owner through Discord.
+1. Obtain a Monthly license for **$4.99** directly from the owner through Discord.
 2. Download **CS2py.exe** from the official release link above.
 3. Run it from your normal Windows account. Enter your key in the masked launcher field on the first launch and complete the official Steam sign-in if requested. On later launches, leave the field blank to use the protected key saved in Windows Credential Manager.
 4. Start CS2 and run the launcher to open the client.
