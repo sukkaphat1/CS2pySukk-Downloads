@@ -4,7 +4,7 @@
 
 Official launcher downloads and setup instructions. A valid license is required to activate the client.
 
-Current release: launcher **1.2.4**, protected client **1.2.3**. This release fixes frozen-launcher saved-license reads, adds an encrypted Windows fallback, and adds the compact CS2py Sukk logo.
+Current release: launcher **1.2.5**, protected client **1.2.5**. This release fixes packaged multiprocessing startup and adds safe detection and closure of an existing client before relaunching.
 
 [Download the latest official launcher](https://github.com/sukkaphat1/CS2pySukk-Downloads/releases/latest/download/CS2py.exe)
 
@@ -17,7 +17,7 @@ Current release: launcher **1.2.4**, protected client **1.2.3**. This release fi
 
 The native Windows launcher shows its own version separately from the installed client version, and displays verification and update progress without a command-line bootstrap window. It verifies your license on every launch, remembers a successfully activated key using Windows Credential Manager, checks for the latest private release, verifies its signature and files, and installs missing Python dependencies automatically. The client itself opens a visible terminal for its startup banner and diagnostic messages. Git and a GitHub account are not required.
 
-The client installs under `Documents\CS2pySukk`. Settings are carried forward during updates. Close the existing client before updating.
+The client installs under `Documents\CS2pySukk`. Settings are carried forward during updates. If a client is already running, the launcher asks whether it should close that client and continue; CS2 itself stays open.
 
 ## Renewal and support
 
