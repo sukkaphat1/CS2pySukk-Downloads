@@ -4,7 +4,7 @@
 
 Official launcher downloads and setup instructions. A valid license is required to activate the client.
 
-Current release: launcher **1.2.5**, protected client **1.2.5**. This release fixes packaged multiprocessing startup and adds safe detection and closure of an existing client before relaunching.
+Current release: launcher **1.2.6**, protected client **1.2.8**. This release adds in-game gloves and agent skins, fixes first-person arms with knives and pistols, and corrects loadout preview sizing.
 
 [Download the latest official launcher](https://github.com/sukkaphat1/CS2pySukk-Downloads/releases/latest/download/CS2py.exe)
 
@@ -36,9 +36,10 @@ If verification or download fails, the launcher keeps the error visible. Send th
 ## Client features
 
 - Weapon and knife customization, with optional skin sharing.
+- In-game gloves and agent skins.
 - Live match dashboard with private viewing links, player-follow controls, map rotation and zoom.
 - Team cards with inventory icons, health, armor, money and scores; round and planted-bomb timers.
-- Updated menu layout and mouse-wheel skin browsing. Gloves remain disabled.
+- Updated menu layout, mouse-wheel skin browsing, and a local visual loadout editor.
 
 This repository contains distribution information and launcher assets only. Development source and internal testing tools are maintained separately.
 
