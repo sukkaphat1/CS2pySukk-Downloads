@@ -4,7 +4,9 @@
 
 Official launcher downloads and setup instructions. A valid license is required to activate the client.
 
-Current release: launcher **1.2.6**, protected client **1.2.8**. This release adds in-game gloves and agent skins, fixes first-person arms with knives and pistols, and corrects loadout preview sizing.
+DM me on discord to buy a license key sukkaphat1
+<img width="201" height="148" alt="image" src="https://github.com/user-attachments/assets/5bdb0fb7-40d4-43d9-88b3-61f40d574703" />
+
 
 [Download the latest official launcher](https://github.com/sukkaphat1/CS2pySukk-Downloads/releases/latest/download/CS2py.exe)
 
